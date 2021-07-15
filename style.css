@@ -79,3 +79,12 @@ p{
     background-color: black;
     
 }
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: chartreuse;
+}
+html{
+    scroll-behavior: smooth;
+}
